@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "mocha",
+        "price": 300,
+        "image": "https://images.immediate.co.uk/production/volatile/sites/2/2021/11/Mocha-1fc71f7.png?quality=90&webp=true&resize=300,272"
+    },
+    {
+        "id":2,
+        "name": "latte",
+        "price": 400,
+        "image": "https://www.jaroflemons.com/wp-content/uploads/2020/05/Everyday-Vanilla-Latte-Recipe-5-765x1148.jpg"
+    },
+    {
+        "id":3,
+        "name": "americano",
+        "price": 200,
+        "image": "https://cdn.buttercms.com/AB7ud4YSE6nmOX0iGlgA"
+    },
+    {
+        "id":4,
+        "name": "cappuccino",
+        "price": 300,
+        "image": "https://www.roastycoffee.com/wp-content/uploads/Australian-Cappuccino-e1633700166537-720x720.jpg"
+    },
+    {
+        "id":5,
+        "name": "dopio",
+        "price": 350,
+        "image": "https://www.doppiocoffeehouse.com/uploads/1/2/7/1/127137217/s818321954983044400_p75_i3_w3600.jpeg?width=2560"
+    },
+    {
+        "id":6,
+        "name": "machiato",
+        "price": 380,
+        "image": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-003.jpg"
+    }
+]
