@@ -3,36 +3,42 @@
         "id":1,
         "name": "mocha",
         "price": 300,
-        "image": "https://images.immediate.co.uk/production/volatile/sites/2/2021/11/Mocha-1fc71f7.png?quality=90&webp=true&resize=300,272"
+        "image": "https://images.immediate.co.uk/production/volatile/sites/2/2021/11/Mocha-1fc71f7.png?quality=90&webp=true&resize=300,272",
+        "description":"Mocha coffee is a delicious and decadent beverage that combines the rich flavors of espresso and chocolate. This delightful blend is perfect for those who love the bold, complex taste of coffee but also crave a touch of sweetness. Our mocha coffee is made with premium espresso and high-quality chocolate, ensuring a smooth and satisfying taste with every sip. Whether you're in need of a mid-afternoon pick-me-up or a sweet treat to indulge in, our mocha coffee is the perfect choice for any occasion."
     },
     {
         "id":2,
         "name": "latte",
         "price": 400,
-        "image": "https://www.jaroflemons.com/wp-content/uploads/2020/05/Everyday-Vanilla-Latte-Recipe-5-765x1148.jpg"
+        "image": "https://cdn.shopify.com/s/files/1/0022/1393/7252/articles/20230214101109-hazelnut-latte-recipe-blog_360x360.webp?v=1676369479",
+        "description": "Latte coffee is a classic and popular espresso-based beverage that is beloved for its smooth, creamy texture and deliciously rich flavor. Made with a shot of espresso and steamed milk, a latte is the perfect balance of bold coffee flavor and velvety smoothness. At our coffee shop, we take great care to craft the perfect latte, using only the highest quality espresso beans and fresh, locally sourced milk to ensure a delicious and satisfying drink. Whether you prefer your latte plain and simple or with a dash of flavor, we're sure you'll find your new favorite cup of coffee at our shop."
     },
     {
         "id":3,
         "name": "americano",
         "price": 200,
-        "image": "https://cdn.buttercms.com/AB7ud4YSE6nmOX0iGlgA"
+        "image": "https://cdn.buttercms.com/AB7ud4YSE6nmOX0iGlgA",
+        "description":"Americano coffee is a simple yet satisfying espresso-based beverage that is loved for its bold, straightforward taste and smooth finish. Made by adding hot water to a shot of espresso, the Americano is a great choice for those who love the taste of coffee but prefer a milder, less intense flavor than traditional espresso. At our coffee shop, we take pride in using only the highest quality espresso beans and carefully filtered water to create the perfect Americano every time. Whether you're in need of a quick pick-me-up or a satisfying midday treat, our Americano coffee is sure to hit the spot."
     },
     {
         "id":4,
         "name": "cappuccino",
         "price": 300,
-        "image": "https://www.roastycoffee.com/wp-content/uploads/Australian-Cappuccino-e1633700166537-720x720.jpg"
+        "image": "https://www.roastycoffee.com/wp-content/uploads/Australian-Cappuccino-e1633700166537-720x720.jpg",
+        "description":"Cappuccino coffee is a classic Italian beverage that is beloved for its rich, creamy texture and distinctive layered appearance. Made with equal parts espresso, steamed milk, and frothed milk, a cappuccino is the perfect balance of bold coffee flavor and silky smoothness. The drink is often topped with a sprinkle of cinnamon or cocoa powder, adding a touch of sweetness to the rich, velvety taste. At our coffee shop, we take great care to craft the perfect cappuccino, using only the highest quality espresso beans and fresh, locally sourced milk to ensure a delicious and satisfying drink. Whether you're a seasoned coffee aficionado or a newcomer to the world of specialty coffee, our cappuccino is sure to delight your senses and leave you feeling energized and refreshed."
     },
     {
         "id":5,
         "name": "dopio",
         "price": 350,
-        "image": "https://www.doppiocoffeehouse.com/uploads/1/2/7/1/127137217/s818321954983044400_p75_i3_w3600.jpeg?width=2560"
+        "image": "https://www.doppiocoffeehouse.com/uploads/1/2/7/1/127137217/s818321954983044400_p75_i3_w3600.jpeg?width=2560",
+        "description":"Doppio coffee is a double shot of espresso that is beloved by coffee lovers for its bold and intense flavor. Made by extracting twice the amount of coffee from finely ground espresso beans, a doppio is the perfect choice for those who enjoy a strong, concentrated coffee taste. At our coffee shop, we take pride in using only the highest quality espresso beans and carefully calibrated equipment to create the perfect doppio every time. Whether you prefer to enjoy your doppio on its own or as a base for a specialty coffee beverage, we're sure you'll love the rich, complex flavor and satisfying kick of this classic espresso drink."
     },
     {
         "id":6,
         "name": "machiato",
         "price": 380,
-        "image": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-003.jpg"
+        "image": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-003.jpg",
+        "description": "Machiato coffee, also known as espresso macchiato, is a classic Italian coffee beverage that is beloved for its bold and intense flavor with a touch of sweetness. Made by adding a small amount of steamed milk to a shot of espresso, the machiato is the perfect balance of rich, complex coffee flavor and creamy, velvety smoothness. The milk is added in a dollop on top of the espresso, creating a distinctive layered appearance that is as beautiful as it is delicious. At our coffee shop, we take great care to craft the perfect machiato, using only the highest quality espresso beans and fresh, locally sourced milk to ensure a delicious and satisfying drink. Whether you're a coffee aficionado looking for a new favorite drink or simply in need of a quick pick-me-up, our machiato coffee is sure to delight your senses and leave you feeling energized and refreshed."
     }
 ]
